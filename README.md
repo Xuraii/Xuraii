@@ -31,15 +31,9 @@
 
 ## 📫 Connect with Me
 <p align="center">
-<!--   <a href="https://www.linkedin.com/in/xuraii">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> -->
   <a href="https://twitter.com/ilyxuraii">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-<!--   <a href="mailto:xuraii@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a> -->
 </p>
 
 ## 💻 Projects
@@ -62,10 +56,6 @@
 - 📈 Improve my skills in TypeScript and Tailwind CSS.
 - 🌍 Build projects that have a positive impact on the community.
 
-## 💬 Blog Posts
-- 📝 [How to Get Started with Open Source](https://dev.to/xuraii/how-to-get-started-with-open-source-1234)
-- 🌟 [Top 10 Tips for Learning JavaScript](https://dev.to/xuraii/top-10-tips-for-learning-javascript-5678)
-- 🔥 [Why I Love Svelte](https://dev.to/xuraii/why-i-love-svelte-91011)
 
 ## 🏆 Achievements
 <p align="center">
