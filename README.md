@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Xuraii! 👋</h1>
-<h2 align="center">A passionate developer and lifelong learner</h2>
+<h3 align="center">A passionate developer and lifelong learner</h3>
 
 <p align="center">
   <a href="https://github.com/xuraii">
