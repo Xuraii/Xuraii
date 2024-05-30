@@ -34,6 +34,9 @@
   <a href="https://twitter.com/ilyxuraii">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+ <a href="https://youtube.com/xuraii">
+    <img src="https://img.shields.io/badge/Youtube-%23f44336.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
+  </a>
 </p>
 
 ## 💻 Projects
