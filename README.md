@@ -62,11 +62,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=xuraii&theme=dark&no-frame=true&column=3" alt="trophies" />
 </p>
 
-## 📊 Activity Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=xuraii&theme=github&hide_border=true" alt="activity graph" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xuraii&style=flat-square&color=blue" alt="Profile Views" />
 </p>
